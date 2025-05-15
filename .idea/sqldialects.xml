@@ -2,8 +2,9 @@
 <project version="4">
   <component name="SqlDialectMappings">
     <file url="file://$PROJECT_DIR$/00_계정생성및권한부여.sql" dialect="MySQL" />
-    <file url="file://$PROJECT_DIR$/03_SQL기본/advanced/advanced1.sql" dialect="MySQL" />
-    <file url="file://$PROJECT_DIR$/03_SQL기본/advanced/advanced2.sql" dialect="MySQL" />
+    <file url="file://$PROJECT_DIR$/03_SQL기본/advanced/01_sqlDB.sql" dialect="MySQL" />
+    <file url="file://$PROJECT_DIR$/03_SQL기본/advanced/02_worldDB.sql" dialect="MySQL" />
+    <file url="file://$PROJECT_DIR$/03_SQL기본/advanced/03_employeesDB.sql" dialect="MySQL" />
     <file url="file://$PROJECT_DIR$/03_SQL기본/example/World.sql" dialect="MySQL" />
     <file url="file://$PROJECT_DIR$/03_SQL기본/example/employees.sql" dialect="MySQL" />
     <file url="file://$PROJECT_DIR$/03_SQL기본/example/sqldb.sql" dialect="MySQL" />
@@ -13,6 +14,9 @@
     <file url="file://$PROJECT_DIR$/03_SQL기본/lecture/04_WHERE.sql" dialect="MySQL" />
     <file url="file://$PROJECT_DIR$/03_SQL기본/lecture/05_Keyword.sql" dialect="MySQL" />
     <file url="file://$PROJECT_DIR$/03_SQL기본/lecture/06_GROUP_BY.sql" dialect="MySQL" />
+    <file url="file://$PROJECT_DIR$/04_SQL심화/advanced/01_sqldb.sql" dialect="MySQL" />
+    <file url="file://$PROJECT_DIR$/04_SQL심화/advanced/02_employeesdb.sql" dialect="MySQL" />
+    <file url="file://$PROJECT_DIR$/04_SQL심화/basic/01_sqldb.sql" dialect="MySQL" />
     <file url="PROJECT" dialect="MySQL" />
   </component>
 </project>
